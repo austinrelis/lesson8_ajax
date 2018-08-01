@@ -4,19 +4,17 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+8/1/18
 
 ### Student Name:  
-(First and Last Name)
+Austin Relis
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+use an API to display info about movies
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/austinrelis/lesson8_ajax
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. ajax
+2. json
+3. APIs
